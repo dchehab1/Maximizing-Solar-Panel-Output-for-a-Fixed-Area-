@@ -36,7 +36,7 @@ MATLAB </br>
 </br> 
 4. Open the Solar_Panel_Project.mlx file in MATLAB
 </br> 
-5. Ensure that MATLAB's Current Folder is set to the folder containing both files. Use the Current Folder address bar to view and change the current working folder if necessary. 
+5. Ensure that MATLAB's Current Folder is set to the folder containing both files. Use the Current Folder address bar to view and change the current folder if necessary. 
 </br> 
 6. Run the Solar_Panel_Project.mlx file. If both files were saved in the same folder and the folder is set to the Current Folder in MATLAB, then MATLAB should recognize the EnergyObjective function in the EnergyObjective.m file when the .mlx file is run. 
 
